@@ -1,4 +1,4 @@
-FROM python:3.6.5
+FROM python
 # Set the working directory to /app
 WORKDIR /app
 # Copy the local contents into the container
